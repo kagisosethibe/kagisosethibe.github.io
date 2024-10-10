@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kagisosethibe
-- 📫 How to reach me: www.kagisosethibe.com
-- 😄 Pronouns: he/him/his
+Official weebsite: www.kagisosethibe.com
 
 <!---
 kagisosethibe/kagisosethibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
