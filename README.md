@@ -1,4 +1,4 @@
-Official website: www.kagisosethibe.com
+Official website: www.kagisosethibe.github.io
 
 <!---
 kagisosethibe/kagisosethibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
